@@ -1,4 +1,5 @@
 {
     "name": "MK Home Assistant Collection",
-    "render_readme": true
+    "render_readme": true,
+    "filename": "mk-ha-collection.js"
 }
